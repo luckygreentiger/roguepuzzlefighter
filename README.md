@@ -1,3 +1,5 @@
+![Rouge Puzzle Fighter Logo](/doc/assets/logo-files/Logo.png)
+
 # Rogue Puzzle Fighter — An Open-Source Puzzle Fighting Game
 
 Rogue Puzzle Fighter is an exciting blend of puzzle mechanics and fighting game dynamics, with a fresh take on classics like Super Puzzle Fighter II Turbo and the innovative flash game BIOGEMS. 
