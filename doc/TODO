@@ -1,0 +1,27 @@
+Art style:
+  - Candidates: Pixel art & Modern Cartoon icons style.
+    Pixel art is prefered for efficiency but no final decision has been made.
+    
+    Try both styles on two views.
+
+UI Prototype:
+  - Create first views / menus (technical demonstration) -> 3gg
+    - Create Start Menu Variant 1
+    - Create Start Menu Variant 2
+    - Create Match 3 Menu Variant 2
+    - Create Match 3 Menu Variant 2
+
+
+  - Branding -> 3gg
+    - Create brand Logo Assets  DONE
+
+DevOPs:
+  - Split project into multiple development and feature branches. -> 3gg  DONE
+  - Add GH Project -> Floyd
+  - Set up github workflow/actions with trigger for automated build and releases on master. -> 3gg
+  - Set up github workflow/actions with trigger for automated render on assets branch(create asset branch or subrepository). -> 3gg
+    - Set up action for blender render
+    - Set up action for krita file conversion
+
+Documentation:
+  - Extend game design document -> Floyd
